@@ -1,0 +1,4 @@
+Z:\projlib\VB.NET\Mathem\obj\Debug\Interop.Shell32.dll
+Z:\projlib\VB.NET\Mathem\obj\Debug\Mathez.vbproj.ResolveComReference.cache
+Z:\projlib\VB.NET\Mathem\obj\Debug\Mathez.exe
+Z:\projlib\VB.NET\Mathem\obj\Debug\Mathez.pdb
