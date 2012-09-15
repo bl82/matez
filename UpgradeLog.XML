@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Mathez">
+</Property><Property Name="Solution File" Value="Z:\projlib\VB.NET\Mathem\Mathez.sln">
+</Property><Property Name="Date" Value="Wednesday, September 12, 2012">
+</Property><Property Name="Time" Value="15:44">
+</Property></Properties><Event ErrorLevel="0" Project="Mathez" Source="Mathez.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Mathez" Source="Mathez.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Mathez.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Mathez.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Mathez" Source="Mathez.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
